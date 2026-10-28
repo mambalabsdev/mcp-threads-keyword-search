@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-threads-keyword-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-threads-keyword-search"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
