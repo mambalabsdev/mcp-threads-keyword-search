@@ -97,7 +97,7 @@ Pay per event on Apify, billed to your Apify account. Prices in USD.
 | Event | Free plan | Bronze | Silver | Gold |
 |---|---|---|---|---|
 | `post-row`, per Threads post that contains your keyword | $0.0025 | $0.002375 | $0.00225 | $0.002125 |
-| `apify-actor-start`, per run start | $0.0005 | $0.0005 | $0.0005 | $0.0005 |
+| `apify-actor-start`, per run start | $0.0015 | $0.0015 | $0.0015 | $0.0015 |
 
 Summary rows, refused input, posts set aside by your filters, and already delivered posts are free. Mamba Labs pays the platform costs of the run, Apify proxy traffic included.
 
