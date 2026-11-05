@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@mambalabsdev/mcp-threads-keyword-search)](https://www.npmjs.com/package/@mambalabsdev/mcp-threads-keyword-search) [![license](https://img.shields.io/github/license/mambalabsdev/mcp-threads-keyword-search)](https://github.com/mambalabsdev/mcp-threads-keyword-search/blob/main/LICENSE)
 
-An MCP server for the Mamba Labs Threads Keyword Search actor on Apify. Search Threads for keywords and get one flat row per post that contains them.
+An MCP server for the Mamba Labs [Threads Posts by Keyword, Exact Match](https://apify.com/mambalabs/threads-keyword-search) actor on Apify. Search Threads for keywords and get one flat row per post that contains them.
 
 ## What's Inside
 

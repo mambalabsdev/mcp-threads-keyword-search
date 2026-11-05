@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-threads-keyword-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Threads Keyword Search. Threads posts that contain your keywords, with author, date, likes, replies, and link, deduped across keywords. No login or key. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {
